@@ -130,7 +130,7 @@ object KemonoApi {
 
 
     //
-    //API độc lập với tài khoản, có thể sử dụng mà không cần đăng nhập
+    // 账户无关的API，不登陆也能使用
     //
 
 

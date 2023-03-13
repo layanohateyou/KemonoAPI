@@ -37,10 +37,10 @@ data class KemonoArtist(
 data class KemonoArtistAll(
     val favorited: Int = 0,
     val id: String,
-    val indexed: Double,            //Ngày thành lập
+    val indexed: Double,            //创建日期
     val name: String,
     val service: String,
-    val updated: Double,            //cập nhật
+    val updated: Double,            //更新日期
 )
 
 @Serializable
